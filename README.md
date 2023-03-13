@@ -7,6 +7,10 @@ I analyzed each chapter's emotion of a famous novel *"The Great Gatsby"*.
 I used Natural Language Processing for sentiment analysis. Also I biuld a plot in order to see the most "positive" chapter, using **Matplotlib** and **NumPy**.
 
 
+![image](https://user-images.githubusercontent.com/102950421/224639179-aafc10b0-1257-412f-b1ad-055c036aca3a.png)
+
+
+
 *Notes:*
 
 **_Natural language processing (NLP)_** is an interdisciplinary subfield of linguistics, computer science, and artificial intelligence concerned with the interactions between computers and human language, in particular how to program computers to process and analyze large amounts of natural language data. 
