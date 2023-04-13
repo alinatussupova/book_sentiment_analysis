@@ -11,7 +11,10 @@ I used Natural Language Processing for sentiment analysis. Also I biuld a plot i
 
 
 
-*Notes:*
+
+<strong>Notes:</strong>
+
+
 
 **_Natural language processing (NLP)_** is an interdisciplinary subfield of linguistics, computer science, and artificial intelligence concerned with the interactions between computers and human language, in particular how to program computers to process and analyze large amounts of natural language data. 
 (<a href = "https://en.wikipedia.org/wiki/Natural_language_processing#:~:text=Natural%20language%20processing%20(NLP)%20is%20an%20interdisciplinary%20subfield%20of%20linguistics%2C%20computer%20science%2C%20and%20artificial%20intelligence%20concerned%20with%20the%20interactions%20between%20computers%20and%20human%20language%2C%20in%20particular%20how%20to%20program%20computers%20to%20process%20and%20analyze%20large%20amounts%20of%20natural%20language%20data.">From Wikipedia</a>)
